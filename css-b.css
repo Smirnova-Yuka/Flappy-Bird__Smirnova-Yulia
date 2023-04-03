@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+header {
+  margin: 0 auto;
+  width: 431px;
+}
+
+.button {
+  margin: 0;
+  cursor: pointer;
+}
+
+h1 {
+  margin: 5px;
+  
+}
